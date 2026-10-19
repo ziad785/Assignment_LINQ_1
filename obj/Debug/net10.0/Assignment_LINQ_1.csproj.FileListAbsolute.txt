@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\bin\Debug\net10.0\Assignment_LINQ_1.exe
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\bin\Debug\net10.0\Assignment_LINQ_1.deps.json
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\bin\Debug\net10.0\Assignment_LINQ_1.runtimeconfig.json
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\bin\Debug\net10.0\Assignment_LINQ_1.dll
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\bin\Debug\net10.0\Assignment_LINQ_1.pdb
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\Assignment_LINQ_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\Assignment_LINQ_1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\Assignment_LINQ_1.AssemblyInfo.cs
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\Assignment_LINQ_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\Assignment_LINQ_1.dll
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\refint\Assignment_LINQ_1.dll
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\Assignment_LINQ_1.pdb
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\Assignment_LINQ_1.genruntimeconfig.cache
+C:\Users\hp\Desktop\WebAPI\Assignment_LINQ_1\Assignment_LINQ_1\obj\Debug\net10.0\ref\Assignment_LINQ_1.dll
